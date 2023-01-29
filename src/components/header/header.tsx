@@ -136,9 +136,7 @@ const Header = ({ visit }: any) => {
           </a>
         </Link>
         <div
-          className={
-            "absolute top-[52px] left-0 md:relative md:top-0 w-full xl:block"
-          )}
+          className="absolute top-[52px] left-0 md:relative md:top-0 w-full xl:block"
         >
           <div
             ref={ref}
